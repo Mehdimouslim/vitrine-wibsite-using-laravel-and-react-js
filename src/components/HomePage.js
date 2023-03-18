@@ -28,29 +28,29 @@ function HomePage() {
         <div className="row" style={{marginTop: '100px;'}}>
             <div className="col-md-4 py-3 py-md-0">
                 <div className="card" id="tpc">
-                    <img src="./image/ch.png" alt="" className="card image-top"/>
+                    <img src="./image/1679118409975.jpg" alt="" className="card image-top"/>
                     <div className="card-img-overlay">
-                        <h4 className="card-titel">Best Chair</h4>
-                        <p className="card-text">Lorem ipsum dolor.</p>
+                        <h4 className="card-titel">Basket Doum</h4>
+                     
                     
                     </div>
                 </div>
             </div>
             <div className="col-md-4 py-3 py-md-0">
                 <div className="card" id="tpc">
-                    <img src="./image/sf.png" alt="" className="card image-top"/>
+                    <img src="./image/download (5).jpeg" alt="" className="card image-top"/>
                     <div className="card-img-overlay">
-                        <h4 className="card-titel">Sofa</h4>
-                        <p className="card-text">Lorem ipsum dolor.</p>
+                        <h4 className="card-titel">Basket Doum</h4>
+                      
                     </div>
                 </div>
             </div>
             <div className="col-md-4 py-3 py-md-0">
                 <div className="card" id="tpc">
-                    <img src="./image/work desk.png" alt="" className="card image-top"/>
+                    <img src="./image/1679118409975.jpg" alt="" className="card image-top"/>
                     <div className="card-img-overlay">
-                        <h4 className="card-titel">Work Desk</h4>
-                        <p className="card-text">Lorem ipsum dolor.</p>
+                        <h4 className="card-titel">Basket Doum</h4>
+                    
                    
                     </div>
                 </div>
@@ -63,9 +63,9 @@ function HomePage() {
         <div className="row" style={{marginTop: '50px;'}}>
             <div className="col-md-3 py-3 py-md-0">
                 <div className="card" id="c">
-                    <img src="./image/card1.png" alt="" className="card image-top"/>
+                    <img src="./image/1679118409958.jpg" alt="" className="card image-top"/>
                     <div className="card-body">
-                        <h3 className="card-titel text-center">Best Sofa</h3>
+                        <h3 className="card-titel text-center">Best Chair</h3>
                         <p className="card-text text-center">$1000.50</p>
                 
                     </div>
@@ -73,9 +73,9 @@ function HomePage() {
             </div>
             <div className="col-md-3 py-3 py-md-0">
                 <div className="card" id="c">
-                    <img src="./image/card2.png" alt="" className="card image-top"/>
+                    <img src="./image/1679118409958.jpg" alt="" className="card image-top"/>
                     <div className="card-body">
-                        <h3 className="card-titel text-center">New Sofa</h3>
+                        <h3 className="card-titel text-center">New Chair</h3>
                         <p className="card-text text-center">$100.50</p>
                      
                     </div>
@@ -83,21 +83,21 @@ function HomePage() {
             </div>
             <div className="col-md-3 py-3 py-md-0">
                 <div className="card" id="c">
-                    <img src="./image/card3.png" alt="" className="card image-top"/>
+                    <img src="./image/1679118409958.jpg" alt="" className="card image-top"/>
                     <div className="card-body">
                         <h3 className="card-titel text-center">New Chair</h3>
                         <p className="card-text text-center">$300.20</p>
-                        {/* <div id="btn3"><button>Shop Now</button></div> */}
+                        
                     </div>
                 </div>
             </div>
             <div className="col-md-3 py-3 py-md-0">
                 <div className="card" id="c">
-                    <img src="./image/card4.png" alt="" className="card image-top"/>
+                    <img src="./image/1679118409958.jpg" alt="" className="card image-top"/>
                     <div className="card-body">
                         <h3 className="card-titel text-center">Modern Chair</h3>
                         <p className="card-text text-center">$500.50</p>
-                        {/* <div id="btn3"><button>Shop Now</button></div> */}
+                    
                     </div>
                 </div>
             </div>
@@ -108,7 +108,7 @@ function HomePage() {
         <div className="row" style={{marginTop: '50px;'}}>
             <div className="col-md-3 py-3 py-md-0">
                 <div className="card" id="c">
-                    <img src="./image/card5.png" alt="" className="card image-top"/>
+                    <img src="./image/traditional-moroccan-stool-made-of-doum-palm-leaves-and-raw-wood_original.png" alt="" className="card image-top"/>
                     <div className="card-body">
                         <h3 className="card-titel text-center">Best Sofa</h3>
                         <p className="card-text text-center">$200.50</p>
@@ -118,9 +118,9 @@ function HomePage() {
             </div>
             <div className="col-md-3 py-3 py-md-0">
                 <div className="card" id="c">
-                    <img src="./image/card6.png" alt="" className="card image-top"/>
+                    <img src="./image/traditional-moroccan-stool-made-of-doum-palm-leaves-and-raw-wood_original.png" alt="" className="card image-top"/>
                     <div className="card-body">
-                        <h3 className="card-titel text-center">Sofa Chair</h3>
+                        <h3 className="card-titel text-center">Basket Doum</h3>
                         <p className="card-text text-center">$100.50</p>
                      
                     </div>
@@ -128,9 +128,9 @@ function HomePage() {
             </div>
             <div className="col-md-3 py-3 py-md-0">
                 <div className="card" id="c">
-                    <img src="./image/card1.png" alt="" className="card image-top"/>
+                    <img src="./image/traditional-moroccan-stool-made-of-doum-palm-leaves-and-raw-wood_original.png" alt="" className="card image-top"/>
                     <div className="card-body">
-                        <h3 className="card-titel text-center">Table Chair</h3>
+                        <h3 className="card-titel text-center"> Chair</h3>
                         <p className="card-text text-center">$150.50</p>
                
                     </div>
@@ -138,10 +138,10 @@ function HomePage() {
             </div>
             <div className="col-md-3 py-3 py-md-0">
                 <div className="card" id="c">
-                    <img src="./image/card1.png" alt="" className="card image-top"/>
+                    <img src="./image/traditional-moroccan-stool-made-of-doum-palm-leaves-and-raw-wood_original.png" alt="" className="card image-top"/>
                     <div className="card-body">
-                        <h3 className="card-titel text-center">Hanging Chair</h3>
-                    
+                        <h3 className="card-titel text-center">Chair</h3>
+                        <p className="card-text text-center">$150.50</p>
                     </div>
                 </div>
             </div>
@@ -157,7 +157,7 @@ function HomePage() {
                 </div>
             </div>
             <div className="col-md-6 py-3 py-md-0">
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum, saepe possimus quo, quasi animi natus nulla beatae neque soluta pariatur id ducimus eum, sed quis enim minima? Fugiat delectus quo optio nemo voluptatem ullam officiis neque exercitationem tenetur eum corporis quas in esse blanditiis, quasi animi nam eos! Tempora deleniti eligendi magni ex voluptatum ut dicta nemo et consequuntur distinctio quae atque porro inventore assumenda, nihil odio iusto accusamus libero error nam aut, at praesentium cum reiciendis. Possimus consequatur obcaecati at illum in dolores earum vero ipsum. Ipsam vitae adipisci corrupti totam vel consequuntur fugiat. Perferendis fuga doloremque tempora, in eos, voluptates iure, optio qui modi ex ea saepe. Eum perspiciatis, voluptates fugiat nesciunt corrupti minima aliquam repellat, ea quasi natus, recusandae aut nobis modi. Commodi, alias reiciendis reprehenderit hic soluta consectetur corporis accusantium placeat, totam minima nostrum magnam dolorum aut dolore, sapiente ea. Magni est quo ipsam nisi iste.</p>
+                <p>Green Doum is a company that preduce natural product, mande in morroco, 100% handmade ,we can the best employers that love to be creative and give time to make the products perfectly , the price of our products is the best for you to get a perfect product with a perfect price, we make different products but the most of it is from rafia and smarand, it take a lot of time to make it perfect all that just to please our dear client that trust our product and we will always do our best to give them the best products.</p>
              
             </div>
         </div>
